@@ -1,0 +1,22 @@
+{
+  "name": "ytcl",
+  "version": "0.0.1",
+  "description": "Command line app for searching and downloading youtube videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastCleanShirt/ytcl.git"
+  },
+  "author": "LastCleanShirt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LastCleanShirt/ytcl/issues"
+  },
+  "homepage": "https://github.com/LastCleanShirt/ytcl#readme",
+  "dependencies": {
+    "usetube": "^2.1.4"
+  }
+}
